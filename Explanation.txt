@@ -1,0 +1,2 @@
+This code work as voice assisant. It recognize our voice and reply the answer to us.
+While you work make sure your PC mic is working.
